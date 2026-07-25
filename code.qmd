@@ -1,0 +1,17 @@
+---
+title: "Code & Tools"
+subtitle: "What lives in the repos, and why"
+---
+
+A short guide to the [GitHub](https://github.com/gtorri) repos worth
+looking at, with context you won't get from the file list alone.
+
+::: {.callout-note}
+Replace the entries below with your actual repos. Suggested format:
+**name** — one line on what it does, and which paper/project it supports.
+:::
+
+- **[repo-name](https://github.com/gtorri/repo-name)** — short description
+  of what it does and which paper or project it supports.
+- **[repo-name-2](https://github.com/gtorri/repo-name-2)** — short
+  description.

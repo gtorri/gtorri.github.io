@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs   # GitHub Pages will serve from /docs on the main branch
+
+website:
+  title: "Giuseppe Torri"
+  site-url: "https://gtorri.github.io"
+  description: "Notes, code, and talks — clouds, convection, and computation."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: notebook.qmd
+        text: Notebook
+      - href: code.qmd
+        text: Code & Tools
+      - href: talks.qmd
+        text: Talks
+      - href: now.qmd
+        text: Now
+    right:
+      - icon: github
+        href: https://github.com/gtorri
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gtorri/
+      - icon: youtube
+        href: https://www.youtube.com/@gtorri
+  page-footer:
+    left: "© {{< meta author >}} · vecchio pirata since forever"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+      dark: [darkly, styles.scss]
+    css: styles.css
+    mainfont: "JetBrains Mono, ui-monospace, monospace"
+    toc: false
+    code-copy: true
+    code-fold: false
+    highlight-style: github

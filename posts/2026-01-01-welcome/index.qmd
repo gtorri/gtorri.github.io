@@ -1,0 +1,29 @@
+---
+title: "Welcome to the notebook"
+date: 2026-01-01
+categories: [meta]
+description: "What this space is for, and what it isn't."
+---
+
+This is where I'll post short, informal notes — a neat result from a
+simulation, a debugging story, a paper I liked and why, conference
+takeaways. Nothing here is peer-reviewed; treat it as a lab notebook, not
+a publication.
+
+For the group's actual publications, CV, and research overview, see the
+[main lab site](https://giuseppetorri.com).
+
+A quick example of embedding code and a figure directly in a post:
+
+```{python}
+#| label: fig-example
+#| fig-cap: "A placeholder sine wave — swap for real model output."
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.linspace(0, 4 * np.pi, 200)
+plt.plot(x, np.sin(x))
+plt.xlabel("x")
+plt.ylabel("sin(x)")
+plt.show()
+```

@@ -1,0 +1,12 @@
+---
+title: "Notebook"
+subtitle: "Modeling notes, results, and things I learned the hard way"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+page-layout: full
+title-block-banner: false
+---

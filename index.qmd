@@ -1,0 +1,17 @@
+---
+title: "Giuseppe Torri"
+subtitle: "Clouds, convection, and the occasional bug hunt"
+page-layout: full
+---
+
+I'm an atmospheric scientist at the University of Hawaiʻi at Mānoa. My research
+group works on cumulus convection, severe weather, and the dynamics that link
+small-scale cloud processes to high-impact events — flash floods, lightning,
+wildfires.
+
+This site is the informal companion to my
+[lab page](https://giuseppetorri.com) — CV, publications, and group info live
+there. Here you'll find notes on models and methods, code, talks, and whatever
+I'm currently chasing.
+
+*Ciao, vecchio pirata.* 🏴‍☠️

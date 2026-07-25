@@ -1,0 +1,13 @@
+---
+title: "Now"
+subtitle: "What I'm working on, updated occasionally"
+---
+
+*Last updated: 2026-01*
+
+- Working on: ...
+- Reading: ...
+- Chasing a bug in: ...
+
+(Inspired by [nownownow.com](https://nownownow.com/about) — a low-pressure
+alternative to keeping a full blog updated.)

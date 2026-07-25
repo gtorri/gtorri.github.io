@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "notebook.html",
+    "href": "notebook.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Welcome to the notebook\n\n\n\nmeta\n\n\n\nWhat this space is for, and what it isn’t.\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Giuseppe Torri",
+    "section": "",
+    "text": "I’m an atmospheric scientist at the University of Hawaiʻi at Mānoa. My research group works on cumulus convection, severe weather, and the dynamics that link small-scale cloud processes to high-impact events — flash floods, lightning, wildfires.\nThis site is the informal companion to my lab page — CV, publications, and group info live there. Here you’ll find notes on models and methods, code, talks, and whatever I’m currently chasing.\nCiao, vecchio pirata. 🏴‍☠️"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk title, Venue, Year — slides · video\nTalk title, Venue, Year — slides\n\nSee also the YouTube channel for recorded talks and demos."
+  },
+  {
+    "objectID": "posts/2026-01-01-welcome/index.html",
+    "href": "posts/2026-01-01-welcome/index.html",
+    "title": "Welcome to the notebook",
+    "section": "",
+    "text": "This is where I’ll post short, informal notes — a neat result from a simulation, a debugging story, a paper I liked and why, conference takeaways. Nothing here is peer-reviewed; treat it as a lab notebook, not a publication.\nFor the group’s actual publications, CV, and research overview, see the main lab site.\nA quick example of embedding code and a figure directly in a post:\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.linspace(0, 4 * np.pi, 200)\nplt.plot(x, np.sin(x))\nplt.xlabel(\"x\")\nplt.ylabel(\"sin(x)\")\nplt.show()\n\n\n\n\n\n\n\nFigure 1: A placeholder sine wave — swap for real model output."
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code & Tools",
+    "section": "",
+    "text": "A short guide to the GitHub repos worth looking at, with context you won’t get from the file list alone.\n\n\n\n\n\n\nNote\n\n\n\nReplace the entries below with your actual repos. Suggested format: name — one line on what it does, and which paper/project it supports.\n\n\n\nrepo-name — short description of what it does and which paper or project it supports.\nrepo-name-2 — short description."
+  },
+  {
+    "objectID": "now.html",
+    "href": "now.html",
+    "title": "Now",
+    "section": "",
+    "text": "Last updated: 2026-01\n\nWorking on: …\nReading: …\nChasing a bug in: …\n\n(Inspired by nownownow.com — a low-pressure alternative to keeping a full blog updated.)"
+  }
+]
